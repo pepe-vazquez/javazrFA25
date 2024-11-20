@@ -1,0 +1,49 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: My New javazr site
+# import hextra as module
+module:
+  imports:
+  - path: github.com/imfing/hextra
+
+markup:
+# allow raw html
+goldmark:
+  renderer:
+    unsafe: true
+
+# enable hextra syntax highlight
+highlight:
+  noClasses: false
+
+menu:
+  main:
+  - name: About
+    pageRef: /about
+    weight: 1
+  - name: Assignments
+    pageRef: /assignments
+    weight: 2
+  - name: Final project
+    pageRef: /assignments/FinalProject
+    weight: 3
+  - name: Documentation
+    pageRef: /docs
+    weight: 4
+  - name: FabAcademy
+    url: "https://fabacademy.org"
+    weight: 5
+  - name: Search
+    weight: 6
+    params:
+      type: search
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+  footer:
+    displayCopyright: true
+    displayPoweredBy: true
+
+

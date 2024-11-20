@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New javazr site – Assigments</title>
+    <link>http://localhost:1313/assignments/</link>
+    <description>Recent content in Assigments on My New javazr site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2024 21:40:46 +0100</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/assignments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
