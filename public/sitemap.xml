@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/assignments/</loc>
+    <loc>http://localhost:1313/javazrFA25/assignments/</loc>
     <lastmod>2024-11-19T21:40:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/javazrFA25/</loc>
     <lastmod>2024-11-19T21:20:26+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/javazrFA25/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/javazrFA25/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/first-page/</loc>
+    <loc>http://localhost:1313/javazrFA25/docs/first-page/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>http://localhost:1313/javazrFA25/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/assignments/finalproject/</loc>
+    <loc>http://localhost:1313/javazrFA25/assignments/finalproject/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/folder/</loc>
+    <loc>http://localhost:1313/javazrFA25/docs/folder/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/folder/leaf/</loc>
+    <loc>http://localhost:1313/javazrFA25/docs/folder/leaf/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/javazrFA25/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/assignments/week-1/</loc>
+    <loc>http://localhost:1313/javazrFA25/assignments/week-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/assignments/week-2/</loc>
+    <loc>http://localhost:1313/javazrFA25/assignments/week-2/</loc>
   </url>
 </urlset>

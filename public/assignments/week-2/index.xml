@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New javazr site – Week 2</title>
-    <link>http://localhost:1313/assignments/week-2/</link>
-    <description>Recent content in Week 2 on My New javazr site</description>
+    <title>My future FabAcademy site – Week 2</title>
+    <link>http://localhost:1313/javazrFA25/assignments/week-2/</link>
+    <description>Recent content in Week 2 on My future FabAcademy site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/assignments/week-2/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/javazrFA25/assignments/week-2/index.xml" rel="self" type="application/rss+xml" />
     
     
       

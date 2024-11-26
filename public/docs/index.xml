@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New javazr site – Documentation</title>
-    <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Documentation on My New javazr site</description>
+    <title>My future FabAcademy site – Documentation</title>
+    <link>http://localhost:1313/javazrFA25/docs/</link>
+    <description>Recent content in Documentation on My future FabAcademy site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/javazrFA25/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Demo Page</title>
-      <link>http://localhost:1313/docs/first-page/</link>
+      <link>http://localhost:1313/javazrFA25/docs/first-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/first-page/</guid>
+      <guid>http://localhost:1313/javazrFA25/docs/first-page/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>Leaf Page</title>
-      <link>http://localhost:1313/docs/folder/leaf/</link>
+      <link>http://localhost:1313/javazrFA25/docs/folder/leaf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/folder/leaf/</guid>
+      <guid>http://localhost:1313/javazrFA25/docs/folder/leaf/</guid>
       <description>
         
         
