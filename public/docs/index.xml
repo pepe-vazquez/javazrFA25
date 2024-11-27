@@ -58,6 +58,8 @@
 &lt;img src=&#34;http://localhost:1313/javazrFA25/javazrFA25/images/image.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Configuration&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;configuration&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#configuration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Top right menu under is define under the menu.main section in the config file: hugo.yaml&lt;/p&gt;
+&lt;h2&gt;Footer&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;footer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#footer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I must create a file called &lt;em&gt;i18n/en.yam&lt;/em&gt;&lt;/p&gt;
 
       </description>
     </item>
