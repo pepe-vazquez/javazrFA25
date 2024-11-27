@@ -43,3 +43,6 @@ I have decided to place the images under the static folder
 
 ## Configuration
 Top right menu under is define under the menu.main section in the config file: hugo.yaml
+
+## Footer
+I must create a file called _i18n/en.yam_
