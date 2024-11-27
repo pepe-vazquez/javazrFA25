@@ -5,5 +5,5 @@ type: about
 
 ### Remember who you are.
 
-[**Fab Academy Student Agreements**](../docs/studentagreement)
+[**Fab Academy Student Agreement**](../docs/studentagreement)
 )
