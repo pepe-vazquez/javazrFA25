@@ -4,7 +4,7 @@ draft: true
 title: 'Site index'
 toc: false
 ---
-This is the landing page
+This is my landing page
 
 ## Explore
 
