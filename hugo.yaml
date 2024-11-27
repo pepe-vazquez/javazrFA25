@@ -25,7 +25,7 @@ menu:
     pageRef: /assignments
     weight: 2
   - name: Final project
-    pageRef: /FinalDiary
+    pageRef: /finaldiary
     weight: 3
   - name: Commands
     pageRef: /docs/commands
