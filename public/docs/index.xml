@@ -15,6 +15,27 @@
     
     
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/javazrFA25/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/javazrFA25/about/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Remember who you are.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;remember-who-you-are&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#remember-who-you-are&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;PhD Architect. Associate Professor at the University of A Coruña in the field of structures in the degree of Architectural Studies. Member of the Architectural Structures Research Group.&lt;/p&gt;
+&lt;p&gt;Teaching in the field of structures in qualifications leading to the practice of the regulated professions of Architect and Technical Architect, as well as in the University Master&amp;rsquo;s Degree in building rehabilitacion and in the BIM Master&amp;rsquo;s Degree at UDC, among other non-official degrees.&lt;/p&gt;
+&lt;p&gt;Integrated in the Architectural Structures Research Group. 6 research patents.
+Coordinator of the Digital Manufacturing Workshop of ETSAC, OFabdaETSAC.&lt;/p&gt;
+&lt;p&gt;I have taught and organized numerous courses in parametric design and digital manufacturing, as well as courses at different levels of training in BIM processes under the Autodesk Revit platform. Support technician certified by Autodesk for the AEC sector from 1995 to 2011 in the AutoCAD platform and from 2009 to 2011 in the BIM Revit platform.&lt;/p&gt;
+&lt;p&gt;Autodesk certified professional for the BIM Revit Architecture 2015 platform.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../docs/studentagreement&#34; &gt;&lt;strong&gt;Fab Academy Student Agreement&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>About Hextra Theme</title>
       <link>http://localhost:1313/javazrFA25/docs/commands/abouthextra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

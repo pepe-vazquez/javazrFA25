@@ -2,9 +2,9 @@
 title: Fab Academy Student Agreement
 type: docs
 sidebar:
- exclude: true
+ exclude: false
 prev: /
-next: docs/folder/
+next: docs/Commands/AboutHextra
 ---
 
 **The Fab Academy is responsible for:**
