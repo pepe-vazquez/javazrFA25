@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My future FabAcademy site – Documentation</title>
+    <title>Pepe Vázquez FabAcademy site – Documentation</title>
     <link>http://localhost:1313/javazrFA25/docs/</link>
-    <description>Recent content in Documentation on My future FabAcademy site</description>
+    <description>Recent content in Documentation on Pepe Vázquez FabAcademy site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -15,29 +15,95 @@
     
     
     <item>
-      <title>Demo Page</title>
-      <link>http://localhost:1313/javazrFA25/docs/first-page/</link>
+      <title>About Hextra Theme</title>
+      <link>http://localhost:1313/javazrFA25/docs/commands/abouthextra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/javazrFA25/docs/first-page/</guid>
+      <guid>http://localhost:1313/javazrFA25/docs/commands/abouthextra/</guid>
       <description>
         
         
-        &lt;p&gt;A simple demo page.&lt;/p&gt;
+        &lt;h2&gt;Organize files&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;organize-files&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#organize-files&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;By default, Hugo searches for Markdown files in the content directory and the structure of this directory determines the final output structure. Here is my proposal:&lt;/p&gt;
+&lt;p&gt;📦content&lt;br&gt;
+┣ 📂assignments&lt;br&gt;
+┃ ┣ 📂week-1&lt;br&gt;
+┃ ┃ ┗ 📜_index.md&lt;br&gt;
+┃ ┣ 📂week-2&lt;br&gt;
+┃ ┃ ┗ 📜_index.md&lt;br&gt;
+┃ ┣ 📂week-x&lt;br&gt;
+┃ ┃ ┗ 📜_index.md&lt;br&gt;
+┃ ┗ 📜_index.md&lt;br&gt;
+┣ 📂docs&lt;br&gt;
+┃ ┣ 📂Commands&lt;br&gt;
+┃ ┃ ┣ 📜AboutHextra.md&lt;br&gt;
+┃ ┃ ┗ 📜_index.md&lt;br&gt;
+┃ ┣ 📜first-page.md&lt;br&gt;
+┃ ┣ 📜StudentAgreement.md&lt;br&gt;
+┃ ┗ 📜_index.md&lt;br&gt;
+┣ 📂FinalDiary&lt;br&gt;
+┃ ┣ 📂FinalProject&lt;br&gt;
+┃ ┃ ┗ 📜_index.md&lt;br&gt;
+┃ ┗ 📜_index.md&lt;br&gt;
+┣ 📜about.md&lt;br&gt;
+┗ 📜_index.md&lt;/p&gt;
+&lt;h2&gt;Layouts&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;layouts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#layouts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Three layouts for diferent content types:&lt;br&gt;
+&lt;strong&gt;docs&lt;/strong&gt; content/docs Structured information&lt;br&gt;
+&lt;strong&gt;blog&lt;/strong&gt; content/assigments For publish the work done each week. With listing and detailed article views&lt;br&gt;
+&lt;strong&gt;blog&lt;/strong&gt; content/FinalDiary&lt;br&gt;
+&lt;strong&gt;default&lt;/strong&gt; All other directories Single-page article view without sidebar&lt;/p&gt;
+&lt;h2&gt;Images&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;images&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#images&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I have decided to place the images under the static folder
+&lt;img src=&#34;http://localhost:1313/javazrFA25/javazrFA25/images/image.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Configuration&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;configuration&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#configuration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Top right menu under is define under the menu.main section in the config file: hugo.yaml&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
-      <title>Leaf Page</title>
-      <link>http://localhost:1313/javazrFA25/docs/folder/leaf/</link>
+      <title>Fab Academy Student Agreement</title>
+      <link>http://localhost:1313/javazrFA25/docs/studentagreement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/javazrFA25/docs/folder/leaf/</guid>
+      <guid>http://localhost:1313/javazrFA25/docs/studentagreement/</guid>
       <description>
         
         
-        &lt;p&gt;This page is under a folder.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;The Fab Academy is responsible for:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Teaching principles and practices of digital fabrication&lt;/li&gt;
+&lt;li&gt;Arranging lectures, recitations, meetings, and events for the class&lt;/li&gt;
+&lt;li&gt;Evaluating and providing feedback on student work&lt;/li&gt;
+&lt;li&gt;Offering clear standards for completing assignments&lt;/li&gt;
+&lt;li&gt;Certifying and archiving student progress&lt;/li&gt;
+&lt;li&gt;Supervising class preparation&lt;/li&gt;
+&lt;li&gt;Reviewing prospective students, instructors, and labs&lt;/li&gt;
+&lt;li&gt;Providing central staff and infrastructure for students, instructors, and labs&lt;/li&gt;
+&lt;li&gt;Fund-raising for costs not covered by student tuition&lt;/li&gt;
+&lt;li&gt;Managing and reporting on the program&amp;rsquo;s finances, results, and impacts&lt;/li&gt;
+&lt;li&gt;Publicizing the program&lt;/li&gt;
+&lt;li&gt;Promoting a respectful environment free of harassment and discrimination&lt;/li&gt;
+&lt;li&gt;Encourage a diverse, accessible, and equitable community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;I am a Fab Academy student, responsible for:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attending class lectures and participating in reviews&lt;/li&gt;
+&lt;li&gt;Developing and documenting projects assigned to introduce and demonstrate skills, in enough detail to be able to reproduce them&lt;/li&gt;
+&lt;li&gt;Honestly reporting on my work, and appropriately attributing the work of others (both human and machine, including AI prompts)&lt;/li&gt;
+&lt;li&gt;Being prepared to answer questions about my work&lt;/li&gt;
+&lt;li&gt;Allowing the Fab Academy to share my work (with attribution) in the class for purposes compatible with its mission&lt;/li&gt;
+&lt;li&gt;Working safely&lt;/li&gt;
+&lt;li&gt;Leaving workspaces in the same (or better) condition than I found them&lt;/li&gt;
+&lt;li&gt;Participating in the upkeep of my lab&lt;/li&gt;
+&lt;li&gt;Ensuring that my tuition for local and central class costs is covered&lt;/li&gt;
+&lt;li&gt;Following locally applicable health and safety guidance&lt;/li&gt;
+&lt;li&gt;Recognizing limits on lab and staff time&lt;/li&gt;
+&lt;li&gt;Promoting a respectful environment free of harassment and discrimination&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Signed by committing this file in my repository,&lt;/p&gt;
+&lt;p&gt;Pepe Vázquez&lt;/p&gt;
 
       </description>
     </item>

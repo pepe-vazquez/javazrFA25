@@ -1,6 +1,6 @@
 baseURL: https://pepe-vazquez.github.io/javazrFA25
 languageCode: en-us
-title: My future FabAcademy site
+title: Pepe Vázquez FabAcademy site
 # import hextra as module
 module:
   imports:
@@ -25,10 +25,10 @@ menu:
     pageRef: /assignments
     weight: 2
   - name: Final project
-    pageRef: /assignments/FinalProject
+    pageRef: /FinalDiary
     weight: 3
-  - name: Documentation
-    pageRef: /docs
+  - name: Commands
+    pageRef: /docs/Commands
     weight: 4
   - name: FabAcademy
     url: "https://fabacademy.org"
@@ -45,5 +45,6 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: true
+    
 
 
