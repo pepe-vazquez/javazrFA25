@@ -28,7 +28,7 @@ menu:
     pageRef: /FinalDiary
     weight: 3
   - name: Commands
-    pageRef: /docs/Commands
+    pageRef: /docs/commands
     weight: 4
   - name: FabAcademy
     url: "https://fabacademy.org"
