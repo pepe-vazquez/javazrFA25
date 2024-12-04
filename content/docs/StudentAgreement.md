@@ -4,7 +4,7 @@ type: docs
 sidebar:
  exclude: false
 prev: /
-next: docs/Commands/AboutHextra
+next: docs/commands/abouthextra
 ---
 
 **The Fab Academy is responsible for:**

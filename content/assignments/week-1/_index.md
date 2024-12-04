@@ -1,13 +1,13 @@
 ---
 title: Week 1
 type: docs
+prev: assignments/finalproject
 next: assignments/week-2
 ---
 
 This is my first week at FabAcademy.
 
-# Encabezado 1
-#### Encabezado 4
+## Principles and practices. Project Management
 
->Esto es una cita
+>Here we go
 

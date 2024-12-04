@@ -10,22 +10,22 @@ By default, Hugo searches for Markdown files in the content directory and the st
 📦content  
  ┣ 📂assignments  
  ┃ ┣ 📂week-1  
+ ┃ ┃ ┣ 📂images-1  
  ┃ ┃ ┗ 📜_index.md  
  ┃ ┣ 📂week-2  
+ ┃ ┃ ┣ 📂images-2  
  ┃ ┃ ┗ 📜_index.md  
- ┃ ┣ 📂week-x  
- ┃ ┃ ┗ 📜_index.md   
  ┃ ┗ 📜_index.md  
  ┣ 📂docs  
- ┃ ┣ 📂Commands  
- ┃ ┃ ┣ 📜AboutHextra.md  
+ ┃ ┣ 📂commands  
+ ┃ ┃ ┣ 📜abouthextra.md  
  ┃ ┃ ┗ 📜_index.md  
- ┃ ┣ 📜first-page.md  
- ┃ ┣ 📜StudentAgreement.md  
+ ┃ ┣ 📜studentagreement.md  
  ┃ ┗ 📜_index.md  
  ┣ 📂FinalDiary  
- ┃ ┣ 📂FinalProject  
+ ┃ ┣ 📂finalproject  
  ┃ ┃ ┗ 📜_index.md  
+ ┃ ┣ 📂images-fd  
  ┃ ┗ 📜_index.md  
  ┣ 📜about.md  
  ┗ 📜_index.md  

@@ -5,6 +5,6 @@ prev: assignments/week-1
 next: assignments/finalproject
 ---
 
-This is my second week at FabAcademy.
+This is my third week at FabAcademy.
 
-## Computer-aided design
+## Computer-controlled cutting

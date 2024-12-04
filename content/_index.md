@@ -11,7 +11,7 @@ This is my landing page
 {{< cards >}}
   {{< card link="about" title="About" icon="user" >}}
   {{< card link="assignments" title="Assignments" icon="book-open" >}}
-  {{< card link="Finalproject" title="Final project" icon="book-open" >}}
+  {{< card link="finaldiary" title="Final project" icon="book-open" >}}
 {{< /cards >}}
 
 ## Documentation
