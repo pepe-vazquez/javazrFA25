@@ -1,0 +1,68 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pepe Vázquez FabAcademy site – Commands</title>
+    <link>http://localhost:1313/javazrFA25/docs/commands/</link>
+    <description>Recent content in Commands on Pepe Vázquez FabAcademy site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/javazrFA25/docs/commands/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>About Hextra Theme</title>
+      <link>http://localhost:1313/javazrFA25/docs/commands/abouthextra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/javazrFA25/docs/commands/abouthextra/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Organize files&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;organize-files&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#organize-files&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;By default, Hugo searches for Markdown files in the content directory and the structure of this directory determines the final output structure. Here is my proposal:&lt;/p&gt;
+&lt;p&gt;📦content&lt;br&gt;
+┣ 📂assignments&lt;br&gt;
+┃ ┣ 📂week-1&lt;br&gt;
+┃ ┃ ┣ 📂images-1&lt;br&gt;
+┃ ┃ ┗ 📜_index.md&lt;br&gt;
+┃ ┣ 📂week-2&lt;br&gt;
+┃ ┃ ┣ 📂images-2&lt;br&gt;
+┃ ┃ ┗ 📜_index.md&lt;br&gt;
+┃ ┗ 📜_index.md&lt;br&gt;
+┣ 📂docs&lt;br&gt;
+┃ ┣ 📂commands&lt;br&gt;
+┃ ┃ ┣ 📜abouthextra.md&lt;br&gt;
+┃ ┃ ┗ 📜_index.md&lt;br&gt;
+┃ ┣ 📜studentagreement.md&lt;br&gt;
+┃ ┗ 📜_index.md&lt;br&gt;
+┣ 📂FinalDiary&lt;br&gt;
+┃ ┣ 📂finalproject&lt;br&gt;
+┃ ┃ ┗ 📜_index.md&lt;br&gt;
+┃ ┣ 📂images-fd&lt;br&gt;
+┃ ┗ 📜_index.md&lt;br&gt;
+┣ 📜about.md&lt;br&gt;
+┗ 📜_index.md&lt;/p&gt;
+&lt;h2&gt;Layouts&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;layouts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#layouts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Three layouts for diferent content types:&lt;br&gt;
+&lt;strong&gt;docs&lt;/strong&gt; content/docs Structured information&lt;br&gt;
+&lt;strong&gt;blog&lt;/strong&gt; content/assigments For publish the work done each week. With listing and detailed article views&lt;br&gt;
+&lt;strong&gt;blog&lt;/strong&gt; content/FinalDiary&lt;br&gt;
+&lt;strong&gt;default&lt;/strong&gt; All other directories Single-page article view without sidebar&lt;/p&gt;
+&lt;h2&gt;Images&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;images&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#images&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I have decided to place the images under the static folder
+&lt;img src=&#34;http://localhost:1313/javazrFA25/javazrFA25/images/image.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Configuration&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;configuration&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#configuration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Top right menu under is define under the menu.main section in the config file: hugo.yaml&lt;/p&gt;
+&lt;h2&gt;Footer&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;footer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#footer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I must create a file called &lt;em&gt;i18n/en.yam&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
