@@ -2,7 +2,7 @@
 title: Fab Academy Student Agreement
 type: docs
 sidebar:
- exclude: false
+ exclude: true
 prev: /
 next: docs/commands/abouthextra
 ---

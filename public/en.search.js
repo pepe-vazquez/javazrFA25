@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
 // 
 
 (function () {
-  const searchDataURL = '/javazrFA25/en.search-data.json';
+  const searchDataURL = '/javazrfa25/en.search-data.json';
 
   const inputElements = document.querySelectorAll('.search-input');
   for (const el of inputElements) {
@@ -370,7 +370,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!resultsElement) return;
 
     if (!results.length) {
-      resultsElement.innerHTML = `<span class="no-result">No hubo resultados.</span>`;
+      resultsElement.innerHTML = `<span class="no-result">Sorry, no results.</span>`;
       return;
     }
 

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pepe Vázquez FabAcademy site – Categories</title>
-    <link>http://localhost:1313/javazrFA25/categories/</link>
+    <link>http://localhost:1313/javazrfa25/categories/</link>
     <description>Recent content in Categories on Pepe Vázquez FabAcademy site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/javazrFA25/categories/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/javazrfa25/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
       

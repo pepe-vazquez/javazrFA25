@@ -1,8 +1,8 @@
 ---
 title: Week 2
 type: docs
-prev: assignments/week-1
-next: assignments/finalproject
+prev: assignments/week-01
+next: assignments/week-03
 ---
 
 This is my second week at FabAcademy.

@@ -1,6 +1,6 @@
 ---
 title: About
-type: docs
+type: blog
 toc: false
 prev: /
 next: assignments
@@ -8,7 +8,7 @@ next: assignments
 
 ### Remember who I am.
 
-Hi everyone! I’m so excited to join this incredible community of creative and inspiring people. I’ve been wanting to take the Fab Academy course for years, and finally, I’ve made time for it. I can’t wait to dive in and learn all these amazing new skills.
+Hi everyone! I’m so excited to join this incredible community of creative and inspiring people. I’ve been waiting to take the Fab Academy course for years, and finally, I’ve made time for it. I can’t wait to dive in and learn all these amazing new skills.
 
 I’m thrilled to finally be taking this leap into the Fab Lab world!
 

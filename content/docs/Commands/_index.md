@@ -1,12 +1,14 @@
 ---
 title: Commands
 type: docs
-prev: ../content
-next: docs/Commands/AboutHextra
+prev: /
+next: docs/commands/aboutHextra
 sidebar:
-  open: true
+  open: false
 ---
 
 ### Tips for maintenance
 
-[Surviving Fab Academy by Elena Cardiel](https://fabacademy.org/2019/labs/leon/students/elena-cardiel/diary.html)
+>[Surviving Fab Academy by Elena Cardiel](https://fabacademy.org/2019/labs/leon/students/elena-cardiel/diary.html)
+
+- [About Hextra Theme](abouthextra)

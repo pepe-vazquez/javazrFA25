@@ -15,4 +15,4 @@ This is my landing page
 {{< /cards >}}
 
 ## Documentation
-[**Fab Academy Student Agreement**](../docs/studentagreement)
+[**Fab Academy Student Agreement**](docs/studentagreement)

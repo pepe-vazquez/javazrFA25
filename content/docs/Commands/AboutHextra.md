@@ -9,40 +9,44 @@ By default, Hugo searches for Markdown files in the content directory and the st
 
 📦content  
  ┣ 📂assignments  
- ┃ ┣ 📂week-1  
- ┃ ┃ ┣ 📂images-1  
+ ┃ ┣ 📂week-01  
+ ┃ ┃ ┣ 📂images-01  
  ┃ ┃ ┗ 📜_index.md  
- ┃ ┣ 📂week-2  
- ┃ ┃ ┣ 📂images-2  
+ ┃ ┣ 📂week-02  
+ ┃ ┃ ┣ 📂images-02  
+ ┃ ┃ ┗ 📜_index.md  
+ ┃ ┣ 📂week-03  
+ ┃ ┃ ┣ 📂images-03  
+ ┃ ┃ ┗ 📜_index.md  
+ ┃ ┣ 📂week-xx  
+ ┃ ┃ ┣ 📂images-xx  
  ┃ ┃ ┗ 📜_index.md  
  ┃ ┗ 📜_index.md  
  ┣ 📂docs  
- ┃ ┣ 📂commands  
- ┃ ┃ ┣ 📜abouthextra.md  
+ ┃ ┣ 📂Commands  
  ┃ ┃ ┗ 📜_index.md  
- ┃ ┣ 📜studentagreement.md  
+ ┃ ┣ 📜StudentAgreement.md  
  ┃ ┗ 📜_index.md  
  ┣ 📂FinalDiary  
- ┃ ┣ 📂finalproject  
+ ┃ ┣ 📂FinalProject  
  ┃ ┃ ┗ 📜_index.md  
  ┃ ┣ 📂images-fd  
  ┃ ┗ 📜_index.md  
  ┣ 📜about.md  
  ┗ 📜_index.md  
 
+## Images
+I have decided to organise all the images corresponding to each week in a separate folder.
+
 ## Layouts
 Three layouts for diferent content types:  
 **docs** content/docs Structured information  
-**blog** content/assigments For publish the work done each week. With listing and detailed article views  
-**blog** content/FinalDiary  
-**default** All other directories Single-page article view without sidebar   
-
-## Images
-I have decided to place the images under the static folder
-![](/images/image.png)
+**blog** content/assigments and content/FinalDiary for publish the work done each week. With listing and detailed article views   
+**default** All other directories single-page article view without sidebar   
 
 ## Configuration
 Top right menu under is define under the menu.main section in the config file: hugo.yaml
 
 ## Footer
-I must create a file called _i18n/en.yam_
+I must create a file called _i18n/en.yam_El
+The footer has been one of the sections that I had the hardest time customising, but in the end I think I managed to do it.
