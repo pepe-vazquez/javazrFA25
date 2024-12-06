@@ -18,23 +18,26 @@ highlight:
 
 menu:
   main:
+  - name: Home
+    pageRef: /
+    weight: 1
   - name: About
     pageRef: /about
-    weight: 1
+    weight: 2
   - name: Assignments
     pageRef: /assignments
-    weight: 2
+    weight: 3
   - name: Final project
     pageRef: /finaldiary
-    weight: 3
+    weight: 4
   - name: Commands
     pageRef: /docs/commands
-    weight: 4
+    weight: 5
   - name: FabAcademy
     url: "https://fabacademy.org"
-    weight: 5
-  - name: Search
     weight: 6
+  - name: Search
+    weight: 7
     params:
       type: search
 
