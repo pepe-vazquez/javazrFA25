@@ -1,7 +1,7 @@
 ---
 title: About
 type: docs
-toc: false
+toc: true
 prev: /
 next: assignments
 ---
