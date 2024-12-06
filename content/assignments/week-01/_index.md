@@ -82,3 +82,11 @@ git push
 
 git clone https://github.com/user/project.git  
 git clone https://gitlab.com/user/project.git 
+
+View origin
+$ git remote --v  
+origin  https://github.com/pepe-vazquez/javazr.git (fetch)  
+origin  https://github.com/pepe-vazquez/javazr.git (push)  
+
+set origin
+$ git remote set-url origin https://github.com/pepe-vazquez/javazr.git
