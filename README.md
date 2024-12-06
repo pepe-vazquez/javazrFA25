@@ -1,8 +1,8 @@
 ## Probando cosas
 ### javazrFA25
 
-Por fin esto parece que va.
-Lo voy entendiendo ya he podido clonar el repositorio subido desde mi portatil a github  
-y clonarlo en el PC del departamento
+Finally, this seems to be working. I'm starting to get the hang of it—I managed to clone the repository I uploaded from my laptop to GitHub and clone it on the department's PC. 
 
+UPDATE
+Now I just messed something up and changed something on the public GitHub page. Time to fix it!
 
