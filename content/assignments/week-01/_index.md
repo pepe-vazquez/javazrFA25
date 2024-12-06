@@ -85,8 +85,16 @@ git clone https://gitlab.com/user/project.git
 
 View origin
 $ git remote --v  
-origin  https://github.com/pepe-vazquez/javazr.git (fetch)  
-origin  https://github.com/pepe-vazquez/javazr.git (push)  
+origin  https://github.com/pepe-vazquez/javazrfa25.git (fetch)  
+origin  https://github.com/pepe-vazquez/javazrfa25.git (push)  
 
 set origin
-$ git remote set-url origin https://github.com/pepe-vazquez/javazr.git
+$ git remote set-url origin https://github.com/pepe-vazquez/javazr25.git
+
+
+error
+$ git push
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+git push --set-upstream origin main
