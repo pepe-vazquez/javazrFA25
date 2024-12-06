@@ -14,26 +14,5 @@
       
     
     
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/javazrfa25/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/javazrfa25/about/</guid>
-      <description>
-        
-        
-        &lt;h3&gt;Remember who I am.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;remember-who-i-am&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#remember-who-i-am&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Hi everyone! I’m so excited to join this incredible community of creative and inspiring people. I’ve been waiting to take the Fab Academy course for years, and finally, I’ve made time for it. I can’t wait to dive in and learn all these amazing new skills.&lt;/p&gt;
-&lt;p&gt;I’m thrilled to finally be taking this leap into the Fab Lab world!&lt;/p&gt;
-&lt;p&gt;Looking at past students’ work is a bit intimidating, but it’s super inspiring too! I’ve already started tinkering with Git and GitHub and preparing materials with some help from &lt;a href=&#34;https://fablabs.io/users/cybermode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luis Díaz-Faes&lt;/a&gt; at the Fab Academy node &lt;a href=&#34;https://fablabs.io/labs/aindustriosa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Asociación Tecnológica A Industriosa&lt;/a&gt; (Vigo, Spain).&lt;/p&gt;
-&lt;p&gt;Since 2014, we’ve been working with students at OFabdaETSAC, our school’s digital fabrication workshop. But we held off on calling ourselves a Fab Lab because we wanted to go through the Fab Academy training first—and now we’re finally taking that step!&lt;/p&gt;
-&lt;p&gt;A little about me: I’m a PhD architect and associate professor at the School of Architectura at the University of A Coruña in Spain. I specialize in teaching structures and work with programs like the Master’s in Building Rehabilitation and BIM. I’m also part of the &lt;a href=&#34;https://gea.udc.es/gea_frames.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Architectural Structures Research Group&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I have taught and organized numerous courses in parametric design and digital manufacturing, as well as courses at different levels of training in BIM processes under the Autodesk Revit platform. Support technician certified by Autodesk for the AEC sector from 1995 to 2011 in the AutoCAD platform and from 2009 to 2011 in the BIM Revit platform.I’m an Autodesk Certified Professional for the BIM Revit Architecture 2015 platform. On &lt;a href=&#34;https://pdi.udc.es/en/File/Pdi/NW69E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this page&lt;/a&gt;, you can check out my academic and research background.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;../docs/studentagreement&#34; &gt;&lt;strong&gt;Fab Academy Student Agreement&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
   </channel>
 </rss>

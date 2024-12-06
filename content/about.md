@@ -1,6 +1,6 @@
 ---
 title: About
-type: blog
+type: docs
 toc: false
 prev: /
 next: assignments
