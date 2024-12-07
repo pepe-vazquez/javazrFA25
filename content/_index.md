@@ -9,8 +9,8 @@ This is my landing page
 ## Explore
 
 {{< cards >}}
-  {{< card link="about" title="About" icon="user" >}}
-  {{< card link="docs/assignments" title="Assignments" icon="book-open" >}}
+  {{< card link="docs/about" title="About" icon="user" >}}  
+  {{< card link="docs/assignments" title="Assignments" icon="book-open" >}}  
   {{< card link="docs/finaldiary" title="Final project" icon="book-open" >}}
 {{< /cards >}}
 
