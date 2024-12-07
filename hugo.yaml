@@ -24,13 +24,13 @@ menu:
     pageRef: docs/about
     weight: 2
   - name: Assignments
-    pageRef: /docs/assignments
+    pageRef: docs/assignments
     weight: 3
   - name: Final project
-    pageRef: /docs/finaldiary
+    pageRef: docs/finaldiary
     weight: 4
   - name: Commands
-    pageRef: /docs/commands
+    pageRef: docs/commands
     weight: 5
   - name: FabAcademy
     url: "https://fabacademy.org"
