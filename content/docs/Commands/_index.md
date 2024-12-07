@@ -1,5 +1,6 @@
 ---
 title: Commands
+weight: 3
 type: docs
 prev: /
 next: docs/commands/aboutHextra

@@ -1,5 +1,7 @@
 ---
 title: Documentation
+sidebar:
+ exclude: true
 next: docs/commands/abouthextra
 ---
 
