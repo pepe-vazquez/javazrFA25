@@ -1,6 +1,8 @@
 ---
 title: About
-type: docs
+weight: 1
+cascade:
+  type: docs
 toc: true
 prev: /
 next: assignments

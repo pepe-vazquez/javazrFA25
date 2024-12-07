@@ -8,13 +8,12 @@ module:
 
 markup:
 # allow raw html
-goldmark:
-  renderer:
-    unsafe: true
-
+  goldmark:
+    renderer:
+      unsafe: true
 # enable hextra syntax highlight
-highlight:
-  noClasses: false
+  highlight:
+    noClasses: false
 
 menu:
   main:

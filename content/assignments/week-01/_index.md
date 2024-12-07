@@ -1,6 +1,5 @@
 ---
 title: Week 1
-type: docs
 prev: assignments
 next: assignments/week-02
 ---

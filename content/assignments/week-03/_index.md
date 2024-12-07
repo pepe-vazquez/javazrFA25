@@ -1,6 +1,5 @@
 ---
 title: Week 3
-type: docs
 prev: assignments/week-02
 next: assignments/week-04
 ---
