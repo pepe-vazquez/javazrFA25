@@ -1,4 +1,4 @@
-module github.com/javazr/javazr
+module github.com/pepe-vazquez/javazrfa25
 
 go 1.23.3
 

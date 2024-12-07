@@ -8,31 +8,32 @@ prev: docs/Commands/
 By default, Hugo searches for Markdown files in the content directory and the structure of this directory determines the final output structure. Here is my proposal:
 
 📦content  
- ┣ 📂assignments  
- ┃ ┣ 📂week-01  
- ┃ ┃ ┣ 📂images-01  
- ┃ ┃ ┗ 📜_index.md  
- ┃ ┣ 📂week-02  
- ┃ ┃ ┣ 📂images-02  
- ┃ ┃ ┗ 📜_index.md  
- ┃ ┣ 📂week-03  
- ┃ ┃ ┣ 📂images-03  
- ┃ ┃ ┗ 📜_index.md  
- ┃ ┣ 📂week-xx  
- ┃ ┃ ┣ 📂images-xx  
- ┃ ┃ ┗ 📜_index.md  
- ┃ ┗ 📜_index.md  
  ┣ 📂docs  
- ┃ ┣ 📂Commands  
+ ┃ ┣ 📂assignments  
+ ┃ ┃ ┣ 📂week-01  
+ ┃ ┃ ┃ ┣ 📂images-01  
+ ┃ ┃ ┃ ┗ 📜_index.md  
+ ┃ ┃ ┣ 📂week-02  
+ ┃ ┃ ┃ ┣ 📂images-02  
+ ┃ ┃ ┃ ┗ 📜_index.md  
+ ┃ ┃ ┣ 📂week-03  
+ ┃ ┃ ┃ ┣ 📂images-03  
+ ┃ ┃ ┃ ┗ 📜_index.md  
+ ┃ ┃ ┣ 📂week-xx  
+ ┃ ┃ ┃ ┣ 📂images-xx  
+ ┃ ┃ ┃ ┗ 📜_index.md  
  ┃ ┃ ┗ 📜_index.md  
- ┃ ┣ 📜StudentAgreement.md  
- ┃ ┗ 📜_index.md  
- ┣ 📂FinalDiary  
- ┃ ┣ 📂FinalProject  
+ ┃ ┣ 📂commands  
+ ┃ ┃ ┣ 📜abouthextra.md  
  ┃ ┃ ┗ 📜_index.md  
- ┃ ┣ 📂images-fd  
+ ┃ ┣ 📂finaldiary  
+ ┃ ┃ ┣ 📂finalproject  
+ ┃ ┃ ┃ ┗ 📜_index.md  
+ ┃ ┃ ┣ 📂images-fd  
+ ┃ ┃ ┗ 📜_index.md  
+ ┃ ┣ 📜about.md  
+ ┃ ┣ 📜studentagreement.md  
  ┃ ┗ 📜_index.md  
- ┣ 📜about.md  
  ┗ 📜_index.md  
 
 ## Images
@@ -48,5 +49,5 @@ Three layouts for diferent content types:
 Top right menu under is define under the menu.main section in the config file: hugo.yaml
 
 ## Footer
-I must create a file called _i18n/en.yam_El
+I must create a file called _i18n/en.yam
 The footer has been one of the sections that I had the hardest time customising, but in the end I think I managed to do it.
